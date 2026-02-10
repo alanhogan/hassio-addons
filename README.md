@@ -8,7 +8,7 @@ This repository collects all of my Hass.io add-ons for easier installation.
 
 ## Installation
 
-Follow [the official instructions](https://home-assistant.io/hassio/installing_third_party_addons/) on the Home Assistant website and use the following URL:
+Follow [the official instructions to add a third-party app repository](https://www.home-assistant.io/common-tasks/os#installing-a-third-party-app-repository) on the Home Assistant website and use the following URL:
 ```txt
 https://github.com/danielwelch/hassio-addons
 ```
